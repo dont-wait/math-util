@@ -1,3 +1,4 @@
+[![CI with GitHub Actions using Ant and JUnit | © 2024 by sang-nt](https://github.com/dont-wait/math-util/actions/workflows/math-util-junit-.yml/badge.svg)](https://github.com/dont-wait/math-util/actions/workflows/math-util-junit-.yml)
 Math-Util with CI | © 2024 by sang-nt
 
 # Welcome to Math-Util Repository
